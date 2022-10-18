@@ -1,6 +1,5 @@
 ###
 # Author: Tyler Windemuth
-# Class: Csc 110
 # Description: This program is a program that takes two (or three) ppm image files
 #              and then uses these ppm files to put one ppm file over another, in
 #              a way that is similar to a greenscreen. The program does this by taking
